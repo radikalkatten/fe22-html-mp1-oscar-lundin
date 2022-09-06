@@ -1,0 +1,52 @@
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: orange;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+  background-color: rgb(252, 237, 153);
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+a:hover{
+  background-color: rgb(230, 149, 134);
+}
+img{
+  width: 300px;
+  margin-left: 200px;
+}
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: auto;
+}
+body{
+  background-color: beige;
+  padding-left: 16px;
+}
+#question{
+  height: 50px;
+  margin-left: 30px;
+}
+section{
+  margin: 200px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+input{
+  margin-right: 200px;
+  width: 200px;
+}
+#fullname{
+  margin-left: 43px;
+}
+button{
+  margin-left: 235px;
+}
+.first{
+ margin-top: 100px;
+}
+.last{
+  margin-bottom: 100px;
+}
